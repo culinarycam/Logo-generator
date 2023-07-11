@@ -1,0 +1,4 @@
+# Indicates which folders and files Git should ignore
+dist/
+.DS_Store
+.node_modules
